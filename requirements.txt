@@ -1,54 +1,5 @@
-altair @ file:///C:/Users/task_176700177304209/croot/altair_1767001891938/work
-attrs @ file:///C:/miniconda3/conda-bld/attrs_1762356899263/work
-blinker @ file:///C:/miniconda3/conda-bld/blinker_1764332324378/work
-Bottleneck @ file:///C:/miniconda3/conda-bld/bottleneck_1761938072950/work
-brotlicffi @ file:///C:/miniconda3/conda-bld/brotlicffi_1764961399696/work
-cachetools @ file:///C:/miniconda3/conda-bld/cachetools_1764867571705/work
-certifi @ file:///C:/Users/task_176765914684981/croot/certifi_1767659268506/work/certifi
-cffi @ file:///C:/miniconda3/conda-bld/cffi_1761832792995/work
-charset-normalizer @ file:///C:/miniconda3/conda-bld/charset-normalizer_1761744960410/work
-click @ file:///C:/miniconda3/conda-bld/click_1764332384168/work
-colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1699472650914/work
 et_xmlfile==2.0.0
-gitdb @ file:///C:/b/abs_1bkmriimss/croot/gitdb_1753362133190/work
-GitPython @ file:///C:/Users/task_176787402835022/croot/gitpython_1767874169598/work
-idna @ file:///C:/miniconda3/conda-bld/idna_1761912000545/work
-Jinja2 @ file:///C:/b/abs_920kup4e6u/croot/jinja2_1741711580669/work
-jsonschema @ file:///C:/Users/task_176795547660335/croot/jsonschema_1767955582100/work
-jsonschema-specifications @ file:///C:/miniconda3/conda-bld/jsonschema-specifications_1762788642063/work
-MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
 mkl-service==2.5.2
-mkl_fft @ file:///C:/miniconda3/conda-bld/mkl_fft_1761592917950/work
-mkl_random @ file:///C:/miniconda3/conda-bld/mkl_random_1761593166070/work
-narwhals @ file:///C:/miniconda3/conda-bld/narwhals_1760003513175/work
-numexpr @ file:///C:/miniconda3/conda-bld/numexpr_1762165727877/work
-numpy @ file:///C:/Users/task_177399616981653/croot/numpy_and_numpy_base_1773996237489/work/dist/numpy-2.4.3-cp312-cp312-win_amd64.whl#sha256=314ca41bafa7c8df05dce170faee1868132fd4c6de3b3ff2bcfa5cd826dcbd68
 openpyxl==3.1.5
-packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049137378/work
-pandas @ file:///C:/miniconda3/conda-bld/pandas_1762332401650/work/dist/pandas-2.3.3-cp312-cp312-win_amd64.whl#sha256=31f3f2ea38ad67d0e1e92b191f191182ac281491c0bbe0b8a2c362da578d5ab8
-pandas-stubs @ file:///C:/Users/task_177202239131763/croot/pandas-stubs_1772022504827/work
-pillow @ file:///C:/b/abs_b50vowcrzo/croot/pillow_1738010273782/work
-plotly @ file:///C:/Users/task_177375508725091/croot/plotly_1773755192143/work
-protobuf @ file:///C:/Users/task_177066052458351/croot/protobuf_1770660639776/work/bazel-bin/python/dist/protobuf-6.33.5-cp312-abi3-win_amd64.whl#sha256=d43d5a31e07e4d7b64d49fcf26f32230186f29e8dfaa72eb98054aefa6bacb10
-pyarrow @ file:///C:/Users/task_177385333889349/croot/pyarrow_1773853496238/work/python
-pycparser @ file:///C:/miniconda3/conda-bld/pycparser_1757496054990/work
-PySocks @ file:///C:/miniconda3/conda-bld/pysocks_1761753030940/work
-python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
-pytz @ file:///C:/Users/task_177304301535742/croot/pytz_1773043108926/work
-PyYAML @ file:///C:/miniconda3/conda-bld/pyyaml_1763465556755/work
-referencing @ file:///C:/miniconda3/conda-bld/referencing_1762536906757/work
-requests @ file:///C:/miniconda3/conda-bld/requests_1762359612354/work
-rpds-py @ file:///C:/miniconda3/conda-bld/rpds-py_1762366604816/work
 setuptools==80.10.2
-six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
-smmap @ file:///C:/b/abs_85z04amxrn/croot/smmap_1752748960667/work
-streamlit @ file:///C:/Users/task_177273462265155/croot/streamlit-split_1772735031855/work/streamlit
-tenacity @ file:///C:/Users/task_176718478796528/croot/tenacity_1767184911806/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-tornado @ file:///C:/Users/task_177430355912797/croot/tornado_1774303663718/work
-typing_extensions @ file:///C:/b/abs_ecq8gc0vbm/croot/typing_extensions_1756281142218/work
-tzdata @ file:///home/task_176829656558347/croot/python-tzdata_1768296637279/work
-urllib3 @ file:///C:/Users/task_176781037409812/croot/urllib3_1767810504598/work
-watchdog @ file:///C:/miniconda3/conda-bld/watchdog_1759775796890/work
 wheel==0.46.3
-win_inet_pton @ file:///C:/miniconda3/conda-bld/win_inet_pton_1761746278813/work
