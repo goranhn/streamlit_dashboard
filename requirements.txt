@@ -1,1 +1,1 @@
-pip install PIL, plotly, pandas, datetime
+PIL, plotly, pandas, datetime
