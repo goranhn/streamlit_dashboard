@@ -1,5 +1,1 @@
-streamlit
-PIL
-plotly
-pandas
-datetime
+streamlit, PIL, plotly, pandas, datetime
