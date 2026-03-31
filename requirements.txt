@@ -1,1 +1,1 @@
-pip install streamlit, PIL, plotly, pandas, datetime
+pip install PIL, plotly, pandas, datetime
